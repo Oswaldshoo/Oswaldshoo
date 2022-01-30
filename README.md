@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oswaldshoo
+- 👋 Hi, I’m Oswald Shoo
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on designing websites 
