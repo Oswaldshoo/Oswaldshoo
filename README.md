@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Oswald Shoo
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on designing websites 
+- 👀 I’m interested in Software and Web development 
+- 🌱 I’m currently taking Bachelor Degree in IT
+- 💞️ I’m looking to collaborate on designing websites and making software.
+- ✨ Language- C++, Python, PHP, CSS and Html
 - 📫 Get me on Oswaldshoo1@gmail.com
 
 <!---
