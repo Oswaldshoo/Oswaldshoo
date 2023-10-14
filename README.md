@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/oswaldshoo" target="blank"><img src="https://img.shields.io/twitter/follow/oswaldshoo?logo=twitter&style=for-the-badge" alt="oswaldshoo" /></a> </p>
 
-- 🔭 I’m currently working on [SocialApp](https://sociallapp.ml/)
+- 🔭 I’m currently working on [OswaldAI](https://t.me/OSwaldAIbot)
 
-- 🌱 I’m currently learning **PHP OOP and JavaScript**
+- 🌱 I’m currently learning **Flask **
 
-- 👯 I’m looking to collaborate on **PHP Projects**
+- 👯 I’m looking to collaborate on **Python Projects**
 
 - 📫 How to reach me **oswaldshoo1@gmail.com**
 
