@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [OswaldAI](https://t.me/OSwaldAIbot)
 
-- 🌱 I’m currently learning **Flask **
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
