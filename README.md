@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oswald Shoo</h1>
-<h3 align="center">A passionate backend developer and WordPress expert from Tanzania</h3>
+<h3 align="center">Python Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/oswaldshoo" target="blank"><img src="https://img.shields.io/twitter/follow/oswaldshoo?logo=twitter&style=for-the-badge" alt="oswaldshoo" /></a> </p>
-
-- 🔭 I’m currently working on [OswaldAI](https://t.me/OSwaldAIbot)
-
-- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
 - 📫 How to reach me **oswaldshoo1@gmail.com**
 
-- ⚡ Fun fact **I'm in love with fixing bugs😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
