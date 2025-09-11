@@ -23,7 +23,7 @@
 ---
 
 ## 🌱 Current Focus
-- Scaling **Smart Restaurant** into a premium hotel/restaurant solution  
+- Building **Mgodini Tech** into a premium tech company  
 - Exploring **AI integrations** for business automation  
 - Sharpening my **backend & DevOps skills**  
 
