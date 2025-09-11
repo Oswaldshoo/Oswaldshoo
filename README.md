@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Oswald Shoo  
 
-🚀 Tech enthusiast | 💻 CEO @ [Mgodini Tech](https://mgodinitech.com) | 🎨 Designer | 📱 Builder of smart solutions  
+🚀 Tech enthusiast | 💻 CEO @ [Mgodini Tech](https://mgodinitech.com) | 🎨 Designer | 📱 Backend Python Developer
 
 ---
 
