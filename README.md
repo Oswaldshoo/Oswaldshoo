@@ -7,9 +7,6 @@
 ## 👨‍💻 About Me
 - 🌍 Based in **Tanzania**  
 - ⚡ CEO & Co-founder of **Mgodini Tech**  
-- 🍽️ Currently building **Smart Restaurant** – a premium digital solution for hotels & restaurants  
-- 🎨 Graphic Designer at **KNCU Tanzania**  
-- 📚 Learning **Django & Game Theory**  
 - 💡 Passionate about solving **expensive operational problems** with tech  
 
 ---
