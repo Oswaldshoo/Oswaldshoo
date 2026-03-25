@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Oswald Shoo  
 
-🚀 Tech enthusiast | 💻 CEO @ [Mgodini Tech](https://mgodinitech.com) | 🎨 Designer | 📱 Backend Python Developer
+🚀AI Tech enthusiast | 💻 CEO @ [Mgodini Tech](https://mgodinitech.com) | 🎨 Designer | 📱 Full Stack Developer
 
 ---
 
@@ -12,27 +12,16 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks:** Django, React, Flask (ex), Tailwind  
-- **Databases:** PostgreSQL, Supabase, Redis  
-- **Other Tools:** Docker, Git, DigitalOcean, Upstash  
-
----
-
-## 🌱 Current Focus
-- Building **Mgodini Tech** into a premium tech company  
-- Exploring **AI integrations** for business automation  
-- Sharpening my **backend & DevOps skills**  
+- **Languages:** Python, JavaScript, PHP 
+- **Frameworks:** Django, React, Flask (ex), Tailwind, Typescript, NodeJs
+- **Databases:** PostgreSQL, MongoBD  
+- **Other Tools:** Docker, Git, Server management, Upstash  
 
 ---
 
 
 ## 📫 Let’s Connect
 - 🌐 [Mgodini Tech](https://mgodinitech.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/oswaldshoo)  
 - 🐦 [Twitter](https://x.com/oswaldshoo)  
 - ✉️ Email: oswaldshoo1@gmail.com  
 
----
-
-✨ *“Building solutions that matter, one project at a time.”*  
