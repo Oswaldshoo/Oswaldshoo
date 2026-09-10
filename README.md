@@ -20,11 +20,11 @@ I build products that solve expensive operational problems logistics, education,
 
 ### Tech Stack
 
-**Backend:** Python · Java · Node.js
-**Frontend:** React · Next.js · Vite
-**Database:** PostgreSQL · MySQL · Supabase
-**Infra & Tools:** nginx · Docker · Git · n8n
-**Payments:** Selcom · Azampay
+- **Backend:** Python · Java · Node.js
+- **Frontend:** React · Next.js · Vite
+- **Database:** PostgreSQL · MySQL · Supabase
+- **Infra & Tools:** nginx · Docker · Git · n8n
+- **Payments:** Selcom · Azampay
 
 ### What I'm doing
 
