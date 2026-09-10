@@ -16,11 +16,11 @@ Software developer & entrepreneur building tech for East Africa 🇹🇿
 
 ### About
 
-I build products that solve expensive operational problems — logistics, education, tourism, and fintech, mostly for the Tanzanian and East African market. Currently running Mgodini Tech, where I lead product and engineering.
+I build products that solve expensive operational problems logistics, education, tourism, and fintech, mostly for the Tanzanian and East African market. Currently running Mgodini Tech, where I lead product and engineering.
 
 ### Tech Stack
 
-**Backend:** Django · Flask · Node.js
+**Backend:** Python · Java · Node.js
 **Frontend:** React · Next.js · Vite
 **Database:** PostgreSQL · MySQL · Supabase
 **Infra & Tools:** nginx · Docker · Git · n8n
