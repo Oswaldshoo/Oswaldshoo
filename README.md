@@ -4,7 +4,7 @@
 
 Software developer & entrepreneur building tech for East Africa 🇹🇿
 
-**CEO @ [Mgodini Tech](https://mgodinitech.com)** · Full-Stack Developer · Designer
+**CEO @ [Mgodini Tech](https://mgodinitech.com)** · Full-Stack Developer · AI enthusiast
 
 [![Website](https://img.shields.io/badge/mgodinitech.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mgodinitech.com)
 [![Twitter](https://img.shields.io/badge/@oswaldshoo-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/oswaldshoo)
